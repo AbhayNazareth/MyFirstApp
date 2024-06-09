@@ -1,0 +1,25 @@
+.container {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.me {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}

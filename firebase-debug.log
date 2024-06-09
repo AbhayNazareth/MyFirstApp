@@ -1,0 +1,28 @@
+[debug] [2024-06-09T20:00:05.160Z] ----------------------------------------------------------------------
+[debug] [2024-06-09T20:00:05.162Z] Command:       /usr/local/share/nvm/versions/node/v20.14.0/bin/node /home/codespace/nvm/current/bin/firebase login --no-localhost
+[debug] [2024-06-09T20:00:05.162Z] CLI Version:   13.11.2
+[debug] [2024-06-09T20:00:05.162Z] Platform:      linux
+[debug] [2024-06-09T20:00:05.163Z] Node Version:  v20.14.0
+[debug] [2024-06-09T20:00:05.163Z] Time:          Sun Jun 09 2024 20:00:05 GMT+0000 (Coordinated Universal Time)
+[debug] [2024-06-09T20:00:05.163Z] Env Overrides: GITHUB_API_URL
+[debug] [2024-06-09T20:00:05.163Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2024-06-09T20:00:12.477Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2024-06-09T20:00:12.477Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"57b87244-4e3f-4ff3-b8d5-7404b08a51ee"}
+[debug] [2024-06-09T20:00:12.852Z] <<< [apiv2][status] POST https://auth.firebase.tools/attest 200
+[debug] [2024-06-09T20:00:12.852Z] <<< [apiv2][body] POST https://auth.firebase.tools/attest {"token":"q9PJ0hwblOTlF0QPg-rOsWiLUa7F3xGmXazqPHyEb7o"}
+[info] 
+[info] To sign in to the Firebase CLI:
+[info] 
+[info] 1. Take note of your session ID:
+[info] 
+[info]    57B87
+[info] 
+[info] 2. Visit the URL below on any device and follow the instructions to get your code:
+[info] 
+[info]    https://auth.firebase.tools/login?code_challenge=WKqHpTyDKCVH6cWVJemSkh4jRM7UPr6zuINaNKaQdPQ&session=57b87244-4e3f-4ff3-b8d5-7404b08a51ee&attest=q9PJ0hwblOTlF0QPg-rOsWiLUa7F3xGmXazqPHyEb7o
+[info] 
+[info] 3. Paste or enter the authorization code below once you have it:
+[info] 
